@@ -67,6 +67,12 @@ O backlog apresentou concentração em chamados de prioridade alta, indicando ne
 
 ![Análise de Incidentes](imagens/analise-incidentes.png)
 
+## Como visualizar o projeto
+
+- Baixe o arquivo `.pbix` para abrir o dashboard no Power BI Desktop.
+- Consulte o arquivo `.pdf` para visualizar uma versão estática do painel.
+- A base fictícia utilizada no projeto está disponível no arquivo Excel.
+
 ## Autor
 
 Caio Cesar Martins
