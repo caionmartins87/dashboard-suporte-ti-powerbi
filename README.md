@@ -76,4 +76,5 @@ O backlog apresentou concentração em chamados de prioridade alta, indicando ne
 ## Autor
 
 **Caio Cesar Martins**
+
 Profissional de TI com experiência em suporte técnico, sustentação de sistemas, SQL, Power BI, Excel, Power Query, análise de indicadores e melhoria de processos.
